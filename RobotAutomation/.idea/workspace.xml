@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c8a6a93-83b8-42a6-b6be-c5148c3bfc6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aGncIMghsfZxSz7bEX8iwRWYwE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Driver" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pranjal Kasar\PycharmProjects\RobotAutomation\Driver" />
+      <recent name="C:\Users\Pranjal Kasar\PycharmProjects\RobotAutomation\TestCase\Registration" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c8a6a93-83b8-42a6-b6be-c5148c3bfc6d" name="Default Changelist" comment="" />
+      <created>1586370875604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586370875604</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Inspections" timestamp="1587549848324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1587549848324" />
+    <state x="137" y="17" width="1092" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586539499219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="17" width="1092" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586539499219" />
+    <state x="413" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587054953167">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587054953167" />
+    <state x="505" y="278" key="Github.CreateGistDialog" timestamp="1587922175177">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="505" y="278" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1587922175177" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1586613269285">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586613269285" />
+  </component>
+</project>
